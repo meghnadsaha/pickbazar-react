@@ -1,0 +1,57 @@
+(base) meghnadsaha@Meghnads-MacBook-Pro pickbazar-react % yarn 
+yarn install v1.22.19
+[1/4] 🔍  Resolving packages...
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > eslint@8.53.0: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-rest > eslint@8.53.0: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @pick-bazar/shop > eslint@8.53.0: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @pick-bazar/shop > @types/classnames@2.3.4: This is a stub types definition. classnames provides its own type definitions, so you do not need this installed.
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-window@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-rest > @floating-ui/react-dom-interactions@0.13.3: Package renamed to @floating-ui/react
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > eslint > @humanwhocodes/config-array@0.11.14: Use @eslint/config-array instead
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-window > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-window@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > eslint > @humanwhocodes/config-array > @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-sw@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-streams@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-streams > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-routing@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-streams > workbox-routing@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-routing > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-routing@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-precaching@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-precaching@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-precaching > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-precaching > workbox-routing@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-expiration@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-expiration@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-expiration > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-range-requests@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-range-requests > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-strategies@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-strategies@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-precaching > workbox-strategies@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-strategies > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-broadcast-update@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-broadcast-update > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-background-sync@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-background-sync > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-cacheable-response@6.6.1: workbox-background-sync@6.6.1
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-recipes > workbox-cacheable-response@6.6.1: workbox-background-sync@6.6.1
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-cacheable-response > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-navigation-preload@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-navigation-preload > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-google-analytics@6.6.1: It is not compatible with newer versions of GA starting with v4, as long as you are using GAv3 it should be ok, but the package is not longer being maintained
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-google-analytics > workbox-core@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-google-analytics > workbox-routing@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-google-analytics > workbox-strategies@6.6.1: this package has been deprecated
+warning workspace-aggregator-7e929227-2480-4e84-ad08-587612df16cc > @marvel/admin-graphql > next-pwa > workbox-webpack-plugin > workbox-build > workbox-google-analytics > workbox-background-sync@6.6.1: this package has been deprecated
+[2/4] 🚚  Fetching packages...
+error An unexpected error occurred: "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz: Request failed \"304 Not Modified\"".
+info If you think this is a bug, please open a bug report with the information provided in "/Users/meghnadsaha/Downloads/themeforest/Pickbazar - React GraphQL Ecommerce Template 11.10.0/pickbazar-react/yarn-error.log".
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+(base) meghnadsaha@Meghnads-MacBook-Pro pickbazar-react % 
